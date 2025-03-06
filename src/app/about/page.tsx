@@ -5,9 +5,13 @@ export default function AboutPage() {
       <section className="mt-12 text-center">
         <h2 className="text-3xl font-semibold">Our Mission & Vision</h2>
         <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
-          Our mission is to create innovative solutions that empower businesses.
-          We envision a future where technology drives efficiency and
-          sustainability.
+          we are committed to preserving digital content for future generations.
+          Our mission is to provide a seamless and secure platform for archiving
+          posts, ensuring that valuable information, stories, and conversations
+          remain accessible over time. We empower individuals and businesses to
+          organize, store, and retrieve their digital history with ease,
+          fostering knowledge retention and continuity in an ever-evolving
+          digital world.
         </p>
       </section>
 
